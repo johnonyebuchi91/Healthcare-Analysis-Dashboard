@@ -5,10 +5,13 @@ This project provides a **comprehensive healthcare data insight dashboard**, bui
 The dashboards were created using a **data-driven storytelling approach**, ideal for stakeholder communication and executive decision-making.
 
 ---
+## Dataset Used 
+- <a href = "https://github.com/johnonyebuchi91/Healthcare-Analysis-Dashboard/blob/main/healthcare_dataset.csv">Healthcare-Dataset</a>
 
 ## 📊 Dashboard 1: Insurance & Billing Overview
 
-![Insurance & Billing Dashboard](https://github.com/johnonyebuchi91/your-repo-path/blob/main/)
+![Healthcare data 2 0](https://github.com/user-attachments/assets/ec148615-19ab-48cb-b9ce-51ad6888c9ad)
+
 
 ### 🔍 Key Insights
 
@@ -51,7 +54,8 @@ The dashboards were created using a **data-driven storytelling approach**, ideal
 
 ## 📊 Dashboard 2: Patient Demographics & Medical Records
 
-![Demographics & Medical Dashboard](https://github.com/johnonyebuchi91/your-repo-path/blob/main/dashboard_2_demographics.png)
+![Healthcare data 1 (2)](https://github.com/user-attachments/assets/8967ab97-b98c-4030-b1c5-3f06312a1650)
+
 
 ### 🔍 Key Metrics
 
